@@ -9,9 +9,6 @@ In this project, we'll predict the winner of football matches in the English Pre
 - Make predictions about who will win a match using scikit-learn.
 - Measure error and improve our predictions.
 
-## Code
-
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/football_matches).
 
 File overview:
 
